@@ -1,5 +1,5 @@
 - Hi, I’m @HarrisonYork
-- I’m interested in learning code and making small projects.
+- I’m interested in engineering and computer science.
 
 <!---
 HarrisonYork/HarrisonYork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
